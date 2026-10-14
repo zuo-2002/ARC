@@ -1,0 +1,387 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="3508" height="2480" viewBox="0 0 3508 2480"><rect x="0" y="0" width="3508" height="2480" fill="#fbfaf7" stroke="none" stroke-width="1" rx="0" opacity="1"/>
+<rect x="0" y="0" width="3508" height="200" fill="#1d4038" stroke="none" stroke-width="1" rx="0" opacity="1"/>
+<text x="150" y="88" font-family="Noto Sans CJK SC, sans-serif" font-size="58px" fill="#fff" font-weight="700" text-anchor="start">1935 发电厂 · 干煤棚三层改造</text>
+<text x="155" y="145" font-family="Noto Sans CJK SC, sans-serif" font-size="25px" fill="#b9d8c7" font-weight="400" text-anchor="start">正式化一草 / 平面与剖面校正稿</text>
+<text x="3300" y="88" font-family="Noto Sans CJK SC, sans-serif" font-size="20px" fill="#b9d8c7" font-weight="700" text-anchor="end">ARCHITECTURAL DRAWING SET</text>
+<text x="3300" y="133" font-family="Noto Sans CJK SC, sans-serif" font-size="20px" fill="#b9d8c7" font-weight="400" text-anchor="end">依据用户三层示意图重新绘制</text>
+<text x="160" y="300" font-family="Noto Sans CJK SC, sans-serif" font-size="28px" fill="#d06b42" font-weight="700" text-anchor="start">图纸说明</text>
+<text x="160" y="350" font-family="Noto Sans CJK SC, sans-serif" font-size="22px" fill="#24332c" font-weight="700" text-anchor="start">黑色边框 = 二、三层楼板范围</text>
+<text x="160" y="388" font-family="Noto Sans CJK SC, sans-serif" font-size="21px" fill="#65746d" font-weight="400" text-anchor="start">柱网及楼板边界按示意图保留</text>
+<rect x="160" y="455" width="28" height="28" fill="#8b5a24" stroke="#2b3732" stroke-width="1" rx="0" opacity="1"/>
+<text x="205" y="478" font-family="Noto Sans CJK SC, sans-serif" font-size="21px" fill="#24332c" font-weight="400" text-anchor="start">棕色：公共路线 / 游线</text>
+<rect x="160" y="503" width="28" height="28" fill="#8eb77f" stroke="#2b3732" stroke-width="1" rx="0" opacity="1"/>
+<text x="205" y="526" font-family="Noto Sans CJK SC, sans-serif" font-size="21px" fill="#24332c" font-weight="400" text-anchor="start">绿色：一层绿化及休憩</text>
+<rect x="160" y="551" width="28" height="28" fill="#202927" stroke="#2b3732" stroke-width="1" rx="0" opacity="1"/>
+<text x="205" y="574" font-family="Noto Sans CJK SC, sans-serif" font-size="21px" fill="#24332c" font-weight="400" text-anchor="start">黑色：楼板边界 / 楼梯 / 柱列</text>
+<rect x="160" y="599" width="28" height="28" fill="#f4eee3" stroke="#2b3732" stroke-width="1" rx="0" opacity="1"/>
+<text x="205" y="622" font-family="Noto Sans CJK SC, sans-serif" font-size="21px" fill="#24332c" font-weight="400" text-anchor="start">米色：功能房间</text>
+<text x="160" y="700" font-family="Noto Sans CJK SC, sans-serif" font-size="27px" fill="#d06b42" font-weight="700" text-anchor="start">控制条件</text>
+<circle cx="173" cy="750" r="6" fill="#d06b42" stroke="none" stroke-width="1"/>
+<text x="195" y="757" font-family="Noto Sans CJK SC, sans-serif" font-size="19px" fill="#24332c" font-weight="400" text-anchor="start">二层、三层不改变黑色楼板边框</text>
+<circle cx="173" cy="789" r="6" fill="#d06b42" stroke="none" stroke-width="1"/>
+<text x="195" y="796" font-family="Noto Sans CJK SC, sans-serif" font-size="19px" fill="#24332c" font-weight="400" text-anchor="start">楼梯位置沿用原示意图</text>
+<circle cx="173" cy="828" r="6" fill="#d06b42" stroke="none" stroke-width="1"/>
+<text x="195" y="835" font-family="Noto Sans CJK SC, sans-serif" font-size="19px" fill="#24332c" font-weight="400" text-anchor="start">一层绿化采用云形种植岛</text>
+<circle cx="173" cy="867" r="6" fill="#d06b42" stroke="none" stroke-width="1"/>
+<text x="195" y="874" font-family="Noto Sans CJK SC, sans-serif" font-size="19px" fill="#24332c" font-weight="400" text-anchor="start">剖面功能与三层平面逐层对应</text>
+<circle cx="173" cy="906" r="6" fill="#d06b42" stroke="none" stroke-width="1"/>
+<text x="195" y="913" font-family="Noto Sans CJK SC, sans-serif" font-size="19px" fill="#24332c" font-weight="400" text-anchor="start">本图为方案阶段图纸，尺寸需 CAD 复核</text>
+<text x="760" y="247" font-family="Noto Sans CJK SC, sans-serif" font-size="28px" fill="#d06b42" font-weight="700" text-anchor="start">一层平面图  |  GROUND FLOOR PLAN</text>
+<rect x="760" y="285" width="2580" height="445" fill="#f7f5ef" stroke="#26352f" stroke-width="4" rx="4" opacity="1"/>
+<rect x="752.0" y="277" width="16" height="16" fill="#26352f" stroke="#26352f" stroke-width="1" rx="0" opacity="1"/>
+<rect x="752.0" y="722" width="16" height="16" fill="#26352f" stroke="#26352f" stroke-width="1" rx="0" opacity="1"/>
+<rect x="859.5" y="277" width="16" height="16" fill="#26352f" stroke="#26352f" stroke-width="1" rx="0" opacity="1"/>
+<rect x="859.5" y="722" width="16" height="16" fill="#26352f" stroke="#26352f" stroke-width="1" rx="0" opacity="1"/>
+<rect x="967.0" y="277" width="16" height="16" fill="#26352f" stroke="#26352f" stroke-width="1" rx="0" opacity="1"/>
+<rect x="967.0" y="722" width="16" height="16" fill="#26352f" stroke="#26352f" stroke-width="1" rx="0" opacity="1"/>
+<rect x="1074.5" y="277" width="16" height="16" fill="#26352f" stroke="#26352f" stroke-width="1" rx="0" opacity="1"/>
+<rect x="1074.5" y="722" width="16" height="16" fill="#26352f" stroke="#26352f" stroke-width="1" rx="0" opacity="1"/>
+<rect x="1182.0" y="277" width="16" height="16" fill="#26352f" stroke="#26352f" stroke-width="1" rx="0" opacity="1"/>
+<rect x="1182.0" y="722" width="16" height="16" fill="#26352f" stroke="#26352f" stroke-width="1" rx="0" opacity="1"/>
+<rect x="1289.5" y="277" width="16" height="16" fill="#26352f" stroke="#26352f" stroke-width="1" rx="0" opacity="1"/>
+<rect x="1289.5" y="722" width="16" height="16" fill="#26352f" stroke="#26352f" stroke-width="1" rx="0" opacity="1"/>
+<rect x="1397.0" y="277" width="16" height="16" fill="#26352f" stroke="#26352f" stroke-width="1" rx="0" opacity="1"/>
+<rect x="1397.0" y="722" width="16" height="16" fill="#26352f" stroke="#26352f" stroke-width="1" rx="0" opacity="1"/>
+<rect x="1504.5" y="277" width="16" height="16" fill="#26352f" stroke="#26352f" stroke-width="1" rx="0" opacity="1"/>
+<rect x="1504.5" y="722" width="16" height="16" fill="#26352f" stroke="#26352f" stroke-width="1" rx="0" opacity="1"/>
+<rect x="1612.0" y="277" width="16" height="16" fill="#26352f" stroke="#26352f" stroke-width="1" rx="0" opacity="1"/>
+<rect x="1612.0" y="722" width="16" height="16" fill="#26352f" stroke="#26352f" stroke-width="1" rx="0" opacity="1"/>
+<rect x="1719.5" y="277" width="16" height="16" fill="#26352f" stroke="#26352f" stroke-width="1" rx="0" opacity="1"/>
+<rect x="1719.5" y="722" width="16" height="16" fill="#26352f" stroke="#26352f" stroke-width="1" rx="0" opacity="1"/>
+<rect x="1827.0" y="277" width="16" height="16" fill="#26352f" stroke="#26352f" stroke-width="1" rx="0" opacity="1"/>
+<rect x="1827.0" y="722" width="16" height="16" fill="#26352f" stroke="#26352f" stroke-width="1" rx="0" opacity="1"/>
+<rect x="1934.5" y="277" width="16" height="16" fill="#26352f" stroke="#26352f" stroke-width="1" rx="0" opacity="1"/>
+<rect x="1934.5" y="722" width="16" height="16" fill="#26352f" stroke="#26352f" stroke-width="1" rx="0" opacity="1"/>
+<rect x="2042.0" y="277" width="16" height="16" fill="#26352f" stroke="#26352f" stroke-width="1" rx="0" opacity="1"/>
+<rect x="2042.0" y="722" width="16" height="16" fill="#26352f" stroke="#26352f" stroke-width="1" rx="0" opacity="1"/>
+<rect x="2149.5" y="277" width="16" height="16" fill="#26352f" stroke="#26352f" stroke-width="1" rx="0" opacity="1"/>
+<rect x="2149.5" y="722" width="16" height="16" fill="#26352f" stroke="#26352f" stroke-width="1" rx="0" opacity="1"/>
+<rect x="2257.0" y="277" width="16" height="16" fill="#26352f" stroke="#26352f" stroke-width="1" rx="0" opacity="1"/>
+<rect x="2257.0" y="722" width="16" height="16" fill="#26352f" stroke="#26352f" stroke-width="1" rx="0" opacity="1"/>
+<rect x="2364.5" y="277" width="16" height="16" fill="#26352f" stroke="#26352f" stroke-width="1" rx="0" opacity="1"/>
+<rect x="2364.5" y="722" width="16" height="16" fill="#26352f" stroke="#26352f" stroke-width="1" rx="0" opacity="1"/>
+<rect x="2472.0" y="277" width="16" height="16" fill="#26352f" stroke="#26352f" stroke-width="1" rx="0" opacity="1"/>
+<rect x="2472.0" y="722" width="16" height="16" fill="#26352f" stroke="#26352f" stroke-width="1" rx="0" opacity="1"/>
+<rect x="2579.5" y="277" width="16" height="16" fill="#26352f" stroke="#26352f" stroke-width="1" rx="0" opacity="1"/>
+<rect x="2579.5" y="722" width="16" height="16" fill="#26352f" stroke="#26352f" stroke-width="1" rx="0" opacity="1"/>
+<rect x="2687.0" y="277" width="16" height="16" fill="#26352f" stroke="#26352f" stroke-width="1" rx="0" opacity="1"/>
+<rect x="2687.0" y="722" width="16" height="16" fill="#26352f" stroke="#26352f" stroke-width="1" rx="0" opacity="1"/>
+<rect x="2794.5" y="277" width="16" height="16" fill="#26352f" stroke="#26352f" stroke-width="1" rx="0" opacity="1"/>
+<rect x="2794.5" y="722" width="16" height="16" fill="#26352f" stroke="#26352f" stroke-width="1" rx="0" opacity="1"/>
+<rect x="2902.0" y="277" width="16" height="16" fill="#26352f" stroke="#26352f" stroke-width="1" rx="0" opacity="1"/>
+<rect x="2902.0" y="722" width="16" height="16" fill="#26352f" stroke="#26352f" stroke-width="1" rx="0" opacity="1"/>
+<rect x="3009.5" y="277" width="16" height="16" fill="#26352f" stroke="#26352f" stroke-width="1" rx="0" opacity="1"/>
+<rect x="3009.5" y="722" width="16" height="16" fill="#26352f" stroke="#26352f" stroke-width="1" rx="0" opacity="1"/>
+<rect x="3117.0" y="277" width="16" height="16" fill="#26352f" stroke="#26352f" stroke-width="1" rx="0" opacity="1"/>
+<rect x="3117.0" y="722" width="16" height="16" fill="#26352f" stroke="#26352f" stroke-width="1" rx="0" opacity="1"/>
+<rect x="3224.5" y="277" width="16" height="16" fill="#26352f" stroke="#26352f" stroke-width="1" rx="0" opacity="1"/>
+<rect x="3224.5" y="722" width="16" height="16" fill="#26352f" stroke="#26352f" stroke-width="1" rx="0" opacity="1"/>
+<rect x="3332.0" y="277" width="16" height="16" fill="#26352f" stroke="#26352f" stroke-width="1" rx="0" opacity="1"/>
+<rect x="3332.0" y="722" width="16" height="16" fill="#26352f" stroke="#26352f" stroke-width="1" rx="0" opacity="1"/>
+<rect x="940" y="340" width="420" height="120" fill="#f4eee3" stroke="#c9b89f" stroke-width="2" rx="4" opacity="1"/>
+<text x="1150.0" y="407.7" font-family="Noto Sans CJK SC, sans-serif" font-size="22px" fill="#4b4034" font-weight="700" text-anchor="middle">商店 A</text>
+<rect x="1440" y="340" width="440" height="120" fill="#f4eee3" stroke="#c9b89f" stroke-width="2" rx="4" opacity="1"/>
+<text x="1660.0" y="407.7" font-family="Noto Sans CJK SC, sans-serif" font-size="22px" fill="#4b4034" font-weight="700" text-anchor="middle">商店 B</text>
+<rect x="2240" y="340" width="430" height="120" fill="#f4eee3" stroke="#c9b89f" stroke-width="2" rx="4" opacity="1"/>
+<text x="2455.0" y="407.7" font-family="Noto Sans CJK SC, sans-serif" font-size="22px" fill="#4b4034" font-weight="700" text-anchor="middle">商店 C</text>
+<rect x="1770" y="510" width="560" height="150" fill="#eee8dd" stroke="#6d665b" stroke-width="3" rx="2" opacity="1"/>
+<text x="2050" y="595" font-family="Noto Sans CJK SC, sans-serif" font-size="28px" fill="#4b4034" font-weight="700" text-anchor="middle">下沉广场</text>
+<rect x="860" y="530" width="260" height="120" fill="#dcebd7" stroke="#78a66f" stroke-width="2" rx="24" opacity="1"/>
+<circle cx="925.0" cy="596.0" r="45.6" fill="#b8d7ae" stroke="#78a66f" stroke-width="2"/>
+<circle cx="1003.0" cy="572.0" r="54.0" fill="#b8d7ae" stroke="#78a66f" stroke-width="2"/>
+<circle cx="1068.0" cy="599.6" r="38.4" fill="#b8d7ae" stroke="#78a66f" stroke-width="2"/>
+<text x="990.0" y="598.0" font-family="Noto Sans CJK SC, sans-serif" font-size="18px" fill="#3b6840" font-weight="700" text-anchor="middle">绿化·休憩</text>
+<rect x="1180" y="575" width="310" height="95" fill="#dcebd7" stroke="#78a66f" stroke-width="2" rx="24" opacity="1"/>
+<circle cx="1257.5" cy="627.25" r="36.1" fill="#b8d7ae" stroke="#78a66f" stroke-width="2"/>
+<circle cx="1350.5" cy="608.25" r="42.75" fill="#b8d7ae" stroke="#78a66f" stroke-width="2"/>
+<circle cx="1428.0" cy="630.1" r="30.400000000000002" fill="#b8d7ae" stroke="#78a66f" stroke-width="2"/>
+<text x="1335.0" y="630.5" font-family="Noto Sans CJK SC, sans-serif" font-size="18px" fill="#3b6840" font-weight="700" text-anchor="middle">绿化·休憩</text>
+<rect x="1520" y="530" width="235" height="130" fill="#dcebd7" stroke="#78a66f" stroke-width="2" rx="24" opacity="1"/>
+<circle cx="1578.75" cy="601.5" r="49.4" fill="#b8d7ae" stroke="#78a66f" stroke-width="2"/>
+<circle cx="1649.25" cy="575.5" r="58.5" fill="#b8d7ae" stroke="#78a66f" stroke-width="2"/>
+<circle cx="1708.0" cy="605.4" r="41.6" fill="#b8d7ae" stroke="#78a66f" stroke-width="2"/>
+<text x="1637.5" y="603.0" font-family="Noto Sans CJK SC, sans-serif" font-size="18px" fill="#3b6840" font-weight="700" text-anchor="middle">绿化·休憩</text>
+<rect x="2360" y="570" width="320" height="105" fill="#dcebd7" stroke="#78a66f" stroke-width="2" rx="24" opacity="1"/>
+<circle cx="2440.0" cy="627.75" r="39.9" fill="#b8d7ae" stroke="#78a66f" stroke-width="2"/>
+<circle cx="2536.0" cy="606.75" r="47.25" fill="#b8d7ae" stroke="#78a66f" stroke-width="2"/>
+<circle cx="2616.0" cy="630.9" r="33.6" fill="#b8d7ae" stroke="#78a66f" stroke-width="2"/>
+<text x="2520.0" y="630.5" font-family="Noto Sans CJK SC, sans-serif" font-size="18px" fill="#3b6840" font-weight="700" text-anchor="middle">绿化·休憩</text>
+<rect x="2770" y="525" width="300" height="120" fill="#dcebd7" stroke="#78a66f" stroke-width="2" rx="24" opacity="1"/>
+<circle cx="2845.0" cy="591.0" r="45.6" fill="#b8d7ae" stroke="#78a66f" stroke-width="2"/>
+<circle cx="2935.0" cy="567.0" r="54.0" fill="#b8d7ae" stroke="#78a66f" stroke-width="2"/>
+<circle cx="3010.0" cy="594.6" r="38.4" fill="#b8d7ae" stroke="#78a66f" stroke-width="2"/>
+<text x="2920.0" y="593.0" font-family="Noto Sans CJK SC, sans-serif" font-size="18px" fill="#3b6840" font-weight="700" text-anchor="middle">绿化·休憩</text>
+<rect x="3070" y="575" width="185" height="95" fill="#dcebd7" stroke="#78a66f" stroke-width="2" rx="24" opacity="1"/>
+<circle cx="3116.25" cy="627.25" r="36.1" fill="#b8d7ae" stroke="#78a66f" stroke-width="2"/>
+<circle cx="3171.75" cy="608.25" r="42.75" fill="#b8d7ae" stroke="#78a66f" stroke-width="2"/>
+<circle cx="3218.0" cy="630.1" r="30.400000000000002" fill="#b8d7ae" stroke="#78a66f" stroke-width="2"/>
+<text x="3162.5" y="630.5" font-family="Noto Sans CJK SC, sans-serif" font-size="18px" fill="#3b6840" font-weight="700" text-anchor="middle">绿化·休憩</text>
+<line x1="790" y1="505" x2="1010" y2="505" stroke="#8b5a24" stroke-width="8"/>
+<polygon points="1010,505 988.3892695435358,515.4391728186695 988.3892695435358,494.56082718133047" fill="#8b5a24" stroke="none" stroke-width="1"/>
+<line x1="1010" y1="505" x2="1480" y2="505" stroke="#8b5a24" stroke-width="8"/>
+<polygon points="1480,505 1458.3892695435356,515.4391728186695 1458.3892695435356,494.56082718133047" fill="#8b5a24" stroke="none" stroke-width="1"/>
+<line x1="1480" y1="505" x2="1780" y2="505" stroke="#8b5a24" stroke-width="8"/>
+<polygon points="1780,505 1758.3892695435356,515.4391728186695 1758.3892695435356,494.56082718133047" fill="#8b5a24" stroke="none" stroke-width="1"/>
+<line x1="2330" y1="505" x2="2810" y2="505" stroke="#8b5a24" stroke-width="8"/>
+<polygon points="2810,505 2788.3892695435356,515.4391728186695 2788.3892695435356,494.56082718133047" fill="#8b5a24" stroke="none" stroke-width="1"/>
+<line x1="2810" y1="505" x2="3310" y2="505" stroke="#8b5a24" stroke-width="8"/>
+<polygon points="3310,505 3288.3892695435356,515.4391728186695 3288.3892695435356,494.56082718133047" fill="#8b5a24" stroke="none" stroke-width="1"/>
+<line x1="1520" y1="505" x2="1520" y2="670" stroke="#8b5a24" stroke-width="8"/>
+<polygon points="1520,670 1509.5608271813305,648.3892695435358 1530.4391728186695,648.3892695435358" fill="#8b5a24" stroke="none" stroke-width="1"/>
+<line x1="2330" y1="505" x2="2330" y2="670" stroke="#8b5a24" stroke-width="8"/>
+<polygon points="2330,670 2319.5608271813303,648.3892695435358 2340.4391728186697,648.3892695435358" fill="#8b5a24" stroke="none" stroke-width="1"/>
+<rect x="1540" y="455" width="48" height="110" fill="#202927" stroke="#202927" stroke-width="2" rx="0" opacity="1"/>
+<line x1="1547" y1="467" x2="1581" y2="467" stroke="#f4f1e9" stroke-width="3"/>
+<line x1="1547" y1="483" x2="1581" y2="483" stroke="#f4f1e9" stroke-width="3"/>
+<line x1="1547" y1="499" x2="1581" y2="499" stroke="#f4f1e9" stroke-width="3"/>
+<line x1="1547" y1="515" x2="1581" y2="515" stroke="#f4f1e9" stroke-width="3"/>
+<line x1="1547" y1="531" x2="1581" y2="531" stroke="#f4f1e9" stroke-width="3"/>
+<line x1="1547" y1="547" x2="1581" y2="547" stroke="#f4f1e9" stroke-width="3"/>
+<rect x="2520" y="455" width="48" height="110" fill="#202927" stroke="#202927" stroke-width="2" rx="0" opacity="1"/>
+<line x1="2527" y1="467" x2="2561" y2="467" stroke="#f4f1e9" stroke-width="3"/>
+<line x1="2527" y1="483" x2="2561" y2="483" stroke="#f4f1e9" stroke-width="3"/>
+<line x1="2527" y1="499" x2="2561" y2="499" stroke="#f4f1e9" stroke-width="3"/>
+<line x1="2527" y1="515" x2="2561" y2="515" stroke="#f4f1e9" stroke-width="3"/>
+<line x1="2527" y1="531" x2="2561" y2="531" stroke="#f4f1e9" stroke-width="3"/>
+<line x1="2527" y1="547" x2="2561" y2="547" stroke="#f4f1e9" stroke-width="3"/>
+<text x="760" y="797" font-family="Noto Sans CJK SC, sans-serif" font-size="28px" fill="#d06b42" font-weight="700" text-anchor="start">二层平面图  |  LEVEL 2 PLAN</text>
+<rect x="940" y="835" width="2220" height="350" fill="#f7f5ef" stroke="#202927" stroke-width="7" rx="2" opacity="1"/>
+<rect x="932.0" y="827" width="16" height="16" fill="#26352f" stroke="#26352f" stroke-width="1" rx="0" opacity="1"/>
+<rect x="932.0" y="1177" width="16" height="16" fill="#26352f" stroke="#26352f" stroke-width="1" rx="0" opacity="1"/>
+<rect x="1032.909090909091" y="827" width="16" height="16" fill="#26352f" stroke="#26352f" stroke-width="1" rx="0" opacity="1"/>
+<rect x="1032.909090909091" y="1177" width="16" height="16" fill="#26352f" stroke="#26352f" stroke-width="1" rx="0" opacity="1"/>
+<rect x="1133.8181818181818" y="827" width="16" height="16" fill="#26352f" stroke="#26352f" stroke-width="1" rx="0" opacity="1"/>
+<rect x="1133.8181818181818" y="1177" width="16" height="16" fill="#26352f" stroke="#26352f" stroke-width="1" rx="0" opacity="1"/>
+<rect x="1234.7272727272727" y="827" width="16" height="16" fill="#26352f" stroke="#26352f" stroke-width="1" rx="0" opacity="1"/>
+<rect x="1234.7272727272727" y="1177" width="16" height="16" fill="#26352f" stroke="#26352f" stroke-width="1" rx="0" opacity="1"/>
+<rect x="1335.6363636363635" y="827" width="16" height="16" fill="#26352f" stroke="#26352f" stroke-width="1" rx="0" opacity="1"/>
+<rect x="1335.6363636363635" y="1177" width="16" height="16" fill="#26352f" stroke="#26352f" stroke-width="1" rx="0" opacity="1"/>
+<rect x="1436.5454545454545" y="827" width="16" height="16" fill="#26352f" stroke="#26352f" stroke-width="1" rx="0" opacity="1"/>
+<rect x="1436.5454545454545" y="1177" width="16" height="16" fill="#26352f" stroke="#26352f" stroke-width="1" rx="0" opacity="1"/>
+<rect x="1537.4545454545455" y="827" width="16" height="16" fill="#26352f" stroke="#26352f" stroke-width="1" rx="0" opacity="1"/>
+<rect x="1537.4545454545455" y="1177" width="16" height="16" fill="#26352f" stroke="#26352f" stroke-width="1" rx="0" opacity="1"/>
+<rect x="1638.3636363636365" y="827" width="16" height="16" fill="#26352f" stroke="#26352f" stroke-width="1" rx="0" opacity="1"/>
+<rect x="1638.3636363636365" y="1177" width="16" height="16" fill="#26352f" stroke="#26352f" stroke-width="1" rx="0" opacity="1"/>
+<rect x="1739.2727272727273" y="827" width="16" height="16" fill="#26352f" stroke="#26352f" stroke-width="1" rx="0" opacity="1"/>
+<rect x="1739.2727272727273" y="1177" width="16" height="16" fill="#26352f" stroke="#26352f" stroke-width="1" rx="0" opacity="1"/>
+<rect x="1840.181818181818" y="827" width="16" height="16" fill="#26352f" stroke="#26352f" stroke-width="1" rx="0" opacity="1"/>
+<rect x="1840.181818181818" y="1177" width="16" height="16" fill="#26352f" stroke="#26352f" stroke-width="1" rx="0" opacity="1"/>
+<rect x="1941.090909090909" y="827" width="16" height="16" fill="#26352f" stroke="#26352f" stroke-width="1" rx="0" opacity="1"/>
+<rect x="1941.090909090909" y="1177" width="16" height="16" fill="#26352f" stroke="#26352f" stroke-width="1" rx="0" opacity="1"/>
+<rect x="2042.0" y="827" width="16" height="16" fill="#26352f" stroke="#26352f" stroke-width="1" rx="0" opacity="1"/>
+<rect x="2042.0" y="1177" width="16" height="16" fill="#26352f" stroke="#26352f" stroke-width="1" rx="0" opacity="1"/>
+<rect x="2142.909090909091" y="827" width="16" height="16" fill="#26352f" stroke="#26352f" stroke-width="1" rx="0" opacity="1"/>
+<rect x="2142.909090909091" y="1177" width="16" height="16" fill="#26352f" stroke="#26352f" stroke-width="1" rx="0" opacity="1"/>
+<rect x="2243.818181818182" y="827" width="16" height="16" fill="#26352f" stroke="#26352f" stroke-width="1" rx="0" opacity="1"/>
+<rect x="2243.818181818182" y="1177" width="16" height="16" fill="#26352f" stroke="#26352f" stroke-width="1" rx="0" opacity="1"/>
+<rect x="2344.727272727273" y="827" width="16" height="16" fill="#26352f" stroke="#26352f" stroke-width="1" rx="0" opacity="1"/>
+<rect x="2344.727272727273" y="1177" width="16" height="16" fill="#26352f" stroke="#26352f" stroke-width="1" rx="0" opacity="1"/>
+<rect x="2445.6363636363635" y="827" width="16" height="16" fill="#26352f" stroke="#26352f" stroke-width="1" rx="0" opacity="1"/>
+<rect x="2445.6363636363635" y="1177" width="16" height="16" fill="#26352f" stroke="#26352f" stroke-width="1" rx="0" opacity="1"/>
+<rect x="2546.5454545454545" y="827" width="16" height="16" fill="#26352f" stroke="#26352f" stroke-width="1" rx="0" opacity="1"/>
+<rect x="2546.5454545454545" y="1177" width="16" height="16" fill="#26352f" stroke="#26352f" stroke-width="1" rx="0" opacity="1"/>
+<rect x="2647.4545454545455" y="827" width="16" height="16" fill="#26352f" stroke="#26352f" stroke-width="1" rx="0" opacity="1"/>
+<rect x="2647.4545454545455" y="1177" width="16" height="16" fill="#26352f" stroke="#26352f" stroke-width="1" rx="0" opacity="1"/>
+<rect x="2748.363636363636" y="827" width="16" height="16" fill="#26352f" stroke="#26352f" stroke-width="1" rx="0" opacity="1"/>
+<rect x="2748.363636363636" y="1177" width="16" height="16" fill="#26352f" stroke="#26352f" stroke-width="1" rx="0" opacity="1"/>
+<rect x="2849.272727272727" y="827" width="16" height="16" fill="#26352f" stroke="#26352f" stroke-width="1" rx="0" opacity="1"/>
+<rect x="2849.272727272727" y="1177" width="16" height="16" fill="#26352f" stroke="#26352f" stroke-width="1" rx="0" opacity="1"/>
+<rect x="2950.181818181818" y="827" width="16" height="16" fill="#26352f" stroke="#26352f" stroke-width="1" rx="0" opacity="1"/>
+<rect x="2950.181818181818" y="1177" width="16" height="16" fill="#26352f" stroke="#26352f" stroke-width="1" rx="0" opacity="1"/>
+<rect x="3051.090909090909" y="827" width="16" height="16" fill="#26352f" stroke="#26352f" stroke-width="1" rx="0" opacity="1"/>
+<rect x="3051.090909090909" y="1177" width="16" height="16" fill="#26352f" stroke="#26352f" stroke-width="1" rx="0" opacity="1"/>
+<rect x="3152.0" y="827" width="16" height="16" fill="#26352f" stroke="#26352f" stroke-width="1" rx="0" opacity="1"/>
+<rect x="3152.0" y="1177" width="16" height="16" fill="#26352f" stroke="#26352f" stroke-width="1" rx="0" opacity="1"/>
+<rect x="1040" y="900" width="310" height="105" fill="#f4eee3" stroke="#c9b89f" stroke-width="2" rx="4" opacity="1"/>
+<text x="1195.0" y="960.2" font-family="Noto Sans CJK SC, sans-serif" font-size="22px" fill="#4b4034" font-weight="700" text-anchor="middle">餐饮 / 小店</text>
+<rect x="1440" y="900" width="400" height="105" fill="#f4eee3" stroke="#c9b89f" stroke-width="2" rx="4" opacity="1"/>
+<text x="1640.0" y="960.2" font-family="Noto Sans CJK SC, sans-serif" font-size="22px" fill="#4b4034" font-weight="700" text-anchor="middle">餐饮</text>
+<rect x="1900" y="895" width="700" height="160" fill="#f4eee3" stroke="#c9b89f" stroke-width="2" rx="4" opacity="1"/>
+<text x="2250.0" y="982.7" font-family="Noto Sans CJK SC, sans-serif" font-size="22px" fill="#4b4034" font-weight="700" text-anchor="middle">展览厅</text>
+<rect x="2680" y="900" width="430" height="105" fill="#f4eee3" stroke="#c9b89f" stroke-width="2" rx="4" opacity="1"/>
+<text x="2895.0" y="960.2" font-family="Noto Sans CJK SC, sans-serif" font-size="22px" fill="#4b4034" font-weight="700" text-anchor="middle">餐饮</text>
+<rect x="3110" y="1025" width="300" height="80" fill="#e7eff0" stroke="#77a5aa" stroke-width="2" rx="4" opacity="1"/>
+<text x="3260.0" y="1071.3" font-family="Noto Sans CJK SC, sans-serif" font-size="18px" fill="#4b4034" font-weight="700" text-anchor="middle">饮品小摊</text>
+<line x1="990" y1="1080" x2="1540" y2="1080" stroke="#8b5a24" stroke-width="8"/>
+<polygon points="1540,1080 1518.3892695435356,1090.4391728186695 1518.3892695435356,1069.5608271813305" fill="#8b5a24" stroke="none" stroke-width="1"/>
+<line x1="1540" y1="1080" x2="2050" y2="1080" stroke="#8b5a24" stroke-width="8"/>
+<polygon points="2050,1080 2028.3892695435356,1090.4391728186695 2028.3892695435356,1069.5608271813305" fill="#8b5a24" stroke="none" stroke-width="1"/>
+<line x1="2050" y1="1080" x2="2630" y2="1080" stroke="#8b5a24" stroke-width="8"/>
+<polygon points="2630,1080 2608.3892695435356,1090.4391728186695 2608.3892695435356,1069.5608271813305" fill="#8b5a24" stroke="none" stroke-width="1"/>
+<line x1="2630" y1="1080" x2="3360" y2="1080" stroke="#8b5a24" stroke-width="8"/>
+<polygon points="3360,1080 3338.3892695435356,1090.4391728186695 3338.3892695435356,1069.5608271813305" fill="#8b5a24" stroke="none" stroke-width="1"/>
+<rect x="1560" y="850" width="48" height="110" fill="#202927" stroke="#202927" stroke-width="2" rx="0" opacity="1"/>
+<line x1="1567" y1="862" x2="1601" y2="862" stroke="#f4f1e9" stroke-width="3"/>
+<line x1="1567" y1="878" x2="1601" y2="878" stroke="#f4f1e9" stroke-width="3"/>
+<line x1="1567" y1="894" x2="1601" y2="894" stroke="#f4f1e9" stroke-width="3"/>
+<line x1="1567" y1="910" x2="1601" y2="910" stroke="#f4f1e9" stroke-width="3"/>
+<line x1="1567" y1="926" x2="1601" y2="926" stroke="#f4f1e9" stroke-width="3"/>
+<line x1="1567" y1="942" x2="1601" y2="942" stroke="#f4f1e9" stroke-width="3"/>
+<rect x="2540" y="850" width="48" height="110" fill="#202927" stroke="#202927" stroke-width="2" rx="0" opacity="1"/>
+<line x1="2547" y1="862" x2="2581" y2="862" stroke="#f4f1e9" stroke-width="3"/>
+<line x1="2547" y1="878" x2="2581" y2="878" stroke="#f4f1e9" stroke-width="3"/>
+<line x1="2547" y1="894" x2="2581" y2="894" stroke="#f4f1e9" stroke-width="3"/>
+<line x1="2547" y1="910" x2="2581" y2="910" stroke="#f4f1e9" stroke-width="3"/>
+<line x1="2547" y1="926" x2="2581" y2="926" stroke="#f4f1e9" stroke-width="3"/>
+<line x1="2547" y1="942" x2="2581" y2="942" stroke="#f4f1e9" stroke-width="3"/>
+<text x="760" y="1237" font-family="Noto Sans CJK SC, sans-serif" font-size="28px" fill="#d06b42" font-weight="700" text-anchor="start">三层平面图  |  LEVEL 3 PLAN</text>
+<rect x="940" y="1275" width="2220" height="290" fill="#f7f5ef" stroke="#202927" stroke-width="7" rx="2" opacity="1"/>
+<rect x="932.0" y="1267" width="16" height="16" fill="#26352f" stroke="#26352f" stroke-width="1" rx="0" opacity="1"/>
+<rect x="932.0" y="1557" width="16" height="16" fill="#26352f" stroke="#26352f" stroke-width="1" rx="0" opacity="1"/>
+<rect x="1032.909090909091" y="1267" width="16" height="16" fill="#26352f" stroke="#26352f" stroke-width="1" rx="0" opacity="1"/>
+<rect x="1032.909090909091" y="1557" width="16" height="16" fill="#26352f" stroke="#26352f" stroke-width="1" rx="0" opacity="1"/>
+<rect x="1133.8181818181818" y="1267" width="16" height="16" fill="#26352f" stroke="#26352f" stroke-width="1" rx="0" opacity="1"/>
+<rect x="1133.8181818181818" y="1557" width="16" height="16" fill="#26352f" stroke="#26352f" stroke-width="1" rx="0" opacity="1"/>
+<rect x="1234.7272727272727" y="1267" width="16" height="16" fill="#26352f" stroke="#26352f" stroke-width="1" rx="0" opacity="1"/>
+<rect x="1234.7272727272727" y="1557" width="16" height="16" fill="#26352f" stroke="#26352f" stroke-width="1" rx="0" opacity="1"/>
+<rect x="1335.6363636363635" y="1267" width="16" height="16" fill="#26352f" stroke="#26352f" stroke-width="1" rx="0" opacity="1"/>
+<rect x="1335.6363636363635" y="1557" width="16" height="16" fill="#26352f" stroke="#26352f" stroke-width="1" rx="0" opacity="1"/>
+<rect x="1436.5454545454545" y="1267" width="16" height="16" fill="#26352f" stroke="#26352f" stroke-width="1" rx="0" opacity="1"/>
+<rect x="1436.5454545454545" y="1557" width="16" height="16" fill="#26352f" stroke="#26352f" stroke-width="1" rx="0" opacity="1"/>
+<rect x="1537.4545454545455" y="1267" width="16" height="16" fill="#26352f" stroke="#26352f" stroke-width="1" rx="0" opacity="1"/>
+<rect x="1537.4545454545455" y="1557" width="16" height="16" fill="#26352f" stroke="#26352f" stroke-width="1" rx="0" opacity="1"/>
+<rect x="1638.3636363636365" y="1267" width="16" height="16" fill="#26352f" stroke="#26352f" stroke-width="1" rx="0" opacity="1"/>
+<rect x="1638.3636363636365" y="1557" width="16" height="16" fill="#26352f" stroke="#26352f" stroke-width="1" rx="0" opacity="1"/>
+<rect x="1739.2727272727273" y="1267" width="16" height="16" fill="#26352f" stroke="#26352f" stroke-width="1" rx="0" opacity="1"/>
+<rect x="1739.2727272727273" y="1557" width="16" height="16" fill="#26352f" stroke="#26352f" stroke-width="1" rx="0" opacity="1"/>
+<rect x="1840.181818181818" y="1267" width="16" height="16" fill="#26352f" stroke="#26352f" stroke-width="1" rx="0" opacity="1"/>
+<rect x="1840.181818181818" y="1557" width="16" height="16" fill="#26352f" stroke="#26352f" stroke-width="1" rx="0" opacity="1"/>
+<rect x="1941.090909090909" y="1267" width="16" height="16" fill="#26352f" stroke="#26352f" stroke-width="1" rx="0" opacity="1"/>
+<rect x="1941.090909090909" y="1557" width="16" height="16" fill="#26352f" stroke="#26352f" stroke-width="1" rx="0" opacity="1"/>
+<rect x="2042.0" y="1267" width="16" height="16" fill="#26352f" stroke="#26352f" stroke-width="1" rx="0" opacity="1"/>
+<rect x="2042.0" y="1557" width="16" height="16" fill="#26352f" stroke="#26352f" stroke-width="1" rx="0" opacity="1"/>
+<rect x="2142.909090909091" y="1267" width="16" height="16" fill="#26352f" stroke="#26352f" stroke-width="1" rx="0" opacity="1"/>
+<rect x="2142.909090909091" y="1557" width="16" height="16" fill="#26352f" stroke="#26352f" stroke-width="1" rx="0" opacity="1"/>
+<rect x="2243.818181818182" y="1267" width="16" height="16" fill="#26352f" stroke="#26352f" stroke-width="1" rx="0" opacity="1"/>
+<rect x="2243.818181818182" y="1557" width="16" height="16" fill="#26352f" stroke="#26352f" stroke-width="1" rx="0" opacity="1"/>
+<rect x="2344.727272727273" y="1267" width="16" height="16" fill="#26352f" stroke="#26352f" stroke-width="1" rx="0" opacity="1"/>
+<rect x="2344.727272727273" y="1557" width="16" height="16" fill="#26352f" stroke="#26352f" stroke-width="1" rx="0" opacity="1"/>
+<rect x="2445.6363636363635" y="1267" width="16" height="16" fill="#26352f" stroke="#26352f" stroke-width="1" rx="0" opacity="1"/>
+<rect x="2445.6363636363635" y="1557" width="16" height="16" fill="#26352f" stroke="#26352f" stroke-width="1" rx="0" opacity="1"/>
+<rect x="2546.5454545454545" y="1267" width="16" height="16" fill="#26352f" stroke="#26352f" stroke-width="1" rx="0" opacity="1"/>
+<rect x="2546.5454545454545" y="1557" width="16" height="16" fill="#26352f" stroke="#26352f" stroke-width="1" rx="0" opacity="1"/>
+<rect x="2647.4545454545455" y="1267" width="16" height="16" fill="#26352f" stroke="#26352f" stroke-width="1" rx="0" opacity="1"/>
+<rect x="2647.4545454545455" y="1557" width="16" height="16" fill="#26352f" stroke="#26352f" stroke-width="1" rx="0" opacity="1"/>
+<rect x="2748.363636363636" y="1267" width="16" height="16" fill="#26352f" stroke="#26352f" stroke-width="1" rx="0" opacity="1"/>
+<rect x="2748.363636363636" y="1557" width="16" height="16" fill="#26352f" stroke="#26352f" stroke-width="1" rx="0" opacity="1"/>
+<rect x="2849.272727272727" y="1267" width="16" height="16" fill="#26352f" stroke="#26352f" stroke-width="1" rx="0" opacity="1"/>
+<rect x="2849.272727272727" y="1557" width="16" height="16" fill="#26352f" stroke="#26352f" stroke-width="1" rx="0" opacity="1"/>
+<rect x="2950.181818181818" y="1267" width="16" height="16" fill="#26352f" stroke="#26352f" stroke-width="1" rx="0" opacity="1"/>
+<rect x="2950.181818181818" y="1557" width="16" height="16" fill="#26352f" stroke="#26352f" stroke-width="1" rx="0" opacity="1"/>
+<rect x="3051.090909090909" y="1267" width="16" height="16" fill="#26352f" stroke="#26352f" stroke-width="1" rx="0" opacity="1"/>
+<rect x="3051.090909090909" y="1557" width="16" height="16" fill="#26352f" stroke="#26352f" stroke-width="1" rx="0" opacity="1"/>
+<rect x="3152.0" y="1267" width="16" height="16" fill="#26352f" stroke="#26352f" stroke-width="1" rx="0" opacity="1"/>
+<rect x="3152.0" y="1557" width="16" height="16" fill="#26352f" stroke="#26352f" stroke-width="1" rx="0" opacity="1"/>
+<rect x="1060" y="1337" width="600" height="150" fill="#f4eee3" stroke="#c9b89f" stroke-width="2" rx="4" opacity="1"/>
+<text x="1360.0" y="1419.7" font-family="Noto Sans CJK SC, sans-serif" font-size="22px" fill="#4b4034" font-weight="700" text-anchor="middle">羽毛球场地</text>
+<rect x="1750" y="1347" width="620" height="130" fill="#eef0ee" stroke="#9aa59e" stroke-width="2" rx="4" opacity="1"/>
+<text x="2060.0" y="1419.7" font-family="Noto Sans CJK SC, sans-serif" font-size="22px" fill="#4b4034" font-weight="700" text-anchor="middle">综合活动场地</text>
+<rect x="2530" y="1337" width="600" height="150" fill="#f4eee3" stroke="#c9b89f" stroke-width="2" rx="4" opacity="1"/>
+<text x="2830.0" y="1419.7" font-family="Noto Sans CJK SC, sans-serif" font-size="22px" fill="#4b4034" font-weight="700" text-anchor="middle">乒乓球场地</text>
+<rect x="1560" y="1285" width="48" height="110" fill="#202927" stroke="#202927" stroke-width="2" rx="0" opacity="1"/>
+<line x1="1567" y1="1297" x2="1601" y2="1297" stroke="#f4f1e9" stroke-width="3"/>
+<line x1="1567" y1="1313" x2="1601" y2="1313" stroke="#f4f1e9" stroke-width="3"/>
+<line x1="1567" y1="1329" x2="1601" y2="1329" stroke="#f4f1e9" stroke-width="3"/>
+<line x1="1567" y1="1345" x2="1601" y2="1345" stroke="#f4f1e9" stroke-width="3"/>
+<line x1="1567" y1="1361" x2="1601" y2="1361" stroke="#f4f1e9" stroke-width="3"/>
+<line x1="1567" y1="1377" x2="1601" y2="1377" stroke="#f4f1e9" stroke-width="3"/>
+<rect x="2540" y="1285" width="48" height="110" fill="#202927" stroke="#202927" stroke-width="2" rx="0" opacity="1"/>
+<line x1="2547" y1="1297" x2="2581" y2="1297" stroke="#f4f1e9" stroke-width="3"/>
+<line x1="2547" y1="1313" x2="2581" y2="1313" stroke="#f4f1e9" stroke-width="3"/>
+<line x1="2547" y1="1329" x2="2581" y2="1329" stroke="#f4f1e9" stroke-width="3"/>
+<line x1="2547" y1="1345" x2="2581" y2="1345" stroke="#f4f1e9" stroke-width="3"/>
+<line x1="2547" y1="1361" x2="2581" y2="1361" stroke="#f4f1e9" stroke-width="3"/>
+<line x1="2547" y1="1377" x2="2581" y2="1377" stroke="#f4f1e9" stroke-width="3"/>
+<text x="2050" y="1520" font-family="Noto Sans CJK SC, sans-serif" font-size="20px" fill="#65746d" font-weight="700" text-anchor="middle">楼板范围按黑色边框控制</text>
+<text x="760" y="1672" font-family="Noto Sans CJK SC, sans-serif" font-size="28px" fill="#d06b42" font-weight="700" text-anchor="start">建筑剖面图  |  SECTION A-A</text>
+<rect x="760" y="1710" width="2580" height="520" fill="#fbfaf7" stroke="#26352f" stroke-width="3" rx="2" opacity="1"/>
+<line x1="870" y1="2165" x2="870" y2="1830" stroke="#26352f" stroke-width="10"/>
+<line x1="3230" y1="2165" x2="3230" y2="1830" stroke="#26352f" stroke-width="10"/>
+<line x1="870" y1="1795" x2="3230" y2="1795" stroke="#26352f" stroke-width="4"/>
+<line x1="870" y1="1735" x2="3230" y2="1735" stroke="#26352f" stroke-width="4"/>
+<line x1="870.0" y1="1735" x2="1001.1111111111111" y2="1795" stroke="#26352f" stroke-width="2"/>
+<line x1="870.0" y1="1795" x2="1001.1111111111111" y2="1735" stroke="#26352f" stroke-width="2"/>
+<line x1="1001.1111111111111" y1="1735" x2="1132.2222222222222" y2="1795" stroke="#26352f" stroke-width="2"/>
+<line x1="1001.1111111111111" y1="1795" x2="1132.2222222222222" y2="1735" stroke="#26352f" stroke-width="2"/>
+<line x1="1132.2222222222222" y1="1735" x2="1263.3333333333333" y2="1795" stroke="#26352f" stroke-width="2"/>
+<line x1="1132.2222222222222" y1="1795" x2="1263.3333333333333" y2="1735" stroke="#26352f" stroke-width="2"/>
+<line x1="1263.3333333333333" y1="1735" x2="1394.4444444444443" y2="1795" stroke="#26352f" stroke-width="2"/>
+<line x1="1263.3333333333333" y1="1795" x2="1394.4444444444443" y2="1735" stroke="#26352f" stroke-width="2"/>
+<line x1="1394.4444444444443" y1="1735" x2="1525.5555555555557" y2="1795" stroke="#26352f" stroke-width="2"/>
+<line x1="1394.4444444444443" y1="1795" x2="1525.5555555555557" y2="1735" stroke="#26352f" stroke-width="2"/>
+<line x1="1525.5555555555557" y1="1735" x2="1656.6666666666665" y2="1795" stroke="#26352f" stroke-width="2"/>
+<line x1="1525.5555555555557" y1="1795" x2="1656.6666666666665" y2="1735" stroke="#26352f" stroke-width="2"/>
+<line x1="1656.6666666666665" y1="1735" x2="1787.7777777777778" y2="1795" stroke="#26352f" stroke-width="2"/>
+<line x1="1656.6666666666665" y1="1795" x2="1787.7777777777778" y2="1735" stroke="#26352f" stroke-width="2"/>
+<line x1="1787.7777777777778" y1="1735" x2="1918.888888888889" y2="1795" stroke="#26352f" stroke-width="2"/>
+<line x1="1787.7777777777778" y1="1795" x2="1918.888888888889" y2="1735" stroke="#26352f" stroke-width="2"/>
+<line x1="1918.888888888889" y1="1735" x2="2050.0" y2="1795" stroke="#26352f" stroke-width="2"/>
+<line x1="1918.888888888889" y1="1795" x2="2050.0" y2="1735" stroke="#26352f" stroke-width="2"/>
+<line x1="2050.0" y1="1735" x2="2181.1111111111113" y2="1795" stroke="#26352f" stroke-width="2"/>
+<line x1="2050.0" y1="1795" x2="2181.1111111111113" y2="1735" stroke="#26352f" stroke-width="2"/>
+<line x1="2181.1111111111113" y1="1735" x2="2312.222222222222" y2="1795" stroke="#26352f" stroke-width="2"/>
+<line x1="2181.1111111111113" y1="1795" x2="2312.222222222222" y2="1735" stroke="#26352f" stroke-width="2"/>
+<line x1="2312.222222222222" y1="1735" x2="2443.333333333333" y2="1795" stroke="#26352f" stroke-width="2"/>
+<line x1="2312.222222222222" y1="1795" x2="2443.333333333333" y2="1735" stroke="#26352f" stroke-width="2"/>
+<line x1="2443.333333333333" y1="1735" x2="2574.4444444444443" y2="1795" stroke="#26352f" stroke-width="2"/>
+<line x1="2443.333333333333" y1="1795" x2="2574.4444444444443" y2="1735" stroke="#26352f" stroke-width="2"/>
+<line x1="2574.4444444444443" y1="1735" x2="2705.5555555555557" y2="1795" stroke="#26352f" stroke-width="2"/>
+<line x1="2574.4444444444443" y1="1795" x2="2705.5555555555557" y2="1735" stroke="#26352f" stroke-width="2"/>
+<line x1="2705.5555555555557" y1="1735" x2="2836.666666666667" y2="1795" stroke="#26352f" stroke-width="2"/>
+<line x1="2705.5555555555557" y1="1795" x2="2836.666666666667" y2="1735" stroke="#26352f" stroke-width="2"/>
+<line x1="2836.666666666667" y1="1735" x2="2967.777777777778" y2="1795" stroke="#26352f" stroke-width="2"/>
+<line x1="2836.666666666667" y1="1795" x2="2967.777777777778" y2="1735" stroke="#26352f" stroke-width="2"/>
+<line x1="2967.777777777778" y1="1735" x2="3098.8888888888887" y2="1795" stroke="#26352f" stroke-width="2"/>
+<line x1="2967.777777777778" y1="1795" x2="3098.8888888888887" y2="1735" stroke="#26352f" stroke-width="2"/>
+<line x1="3098.8888888888887" y1="1735" x2="3230.0" y2="1795" stroke="#26352f" stroke-width="2"/>
+<line x1="3098.8888888888887" y1="1795" x2="3230.0" y2="1735" stroke="#26352f" stroke-width="2"/>
+<line x1="870" y1="2060" x2="3230" y2="2060" stroke="#202927" stroke-width="8"/>
+<line x1="1040" y1="1930" x2="3060" y2="1930" stroke="#202927" stroke-width="8"/>
+<line x1="1040" y1="1810" x2="3060" y2="1810" stroke="#202927" stroke-width="8"/>
+<rect x="880" y="2065" width="2340" height="90" fill="#dcebd7" stroke="none" stroke-width="0" rx="0" opacity="1"/>
+<rect x="1050" y="1935" width="2000" height="90" fill="#f4eee3" stroke="none" stroke-width="0" rx="0" opacity="1"/>
+<rect x="1050" y="1815" width="2000" height="90" fill="#edf0ee" stroke="none" stroke-width="0" rx="0" opacity="1"/>
+<circle cx="1250" cy="2040" r="38" fill="#9fc58f" stroke="#6c9a66" stroke-width="2"/>
+<line x1="1250" y1="2078" x2="1250" y2="2060" stroke="#6c9a66" stroke-width="4"/>
+<circle cx="1560" cy="2040" r="46" fill="#9fc58f" stroke="#6c9a66" stroke-width="2"/>
+<line x1="1560" y1="2086" x2="1560" y2="2060" stroke="#6c9a66" stroke-width="4"/>
+<circle cx="1930" cy="2040" r="42" fill="#9fc58f" stroke="#6c9a66" stroke-width="2"/>
+<line x1="1930" y1="2082" x2="1930" y2="2060" stroke="#6c9a66" stroke-width="4"/>
+<circle cx="2370" cy="2040" r="50" fill="#9fc58f" stroke="#6c9a66" stroke-width="2"/>
+<line x1="2370" y1="2090" x2="2370" y2="2060" stroke="#6c9a66" stroke-width="4"/>
+<circle cx="2720" cy="2040" r="42" fill="#9fc58f" stroke="#6c9a66" stroke-width="2"/>
+<line x1="2720" y1="2082" x2="2720" y2="2060" stroke="#6c9a66" stroke-width="4"/>
+<rect x="2020" y="2110" width="280" height="45" fill="#eee8dd" stroke="#6d665b" stroke-width="2" rx="0" opacity="1"/>
+<text x="2160" y="2140" font-family="Noto Sans CJK SC, sans-serif" font-size="18px" fill="#4b4034" font-weight="700" text-anchor="middle">下沉广场</text>
+<text x="900" y="2115" font-family="Noto Sans CJK SC, sans-serif" font-size="20px" fill="#3b6840" font-weight="700" text-anchor="start">一层：商店 + 绿化休憩</text>
+<text x="1100" y="1990" font-family="Noto Sans CJK SC, sans-serif" font-size="20px" fill="#4b4034" font-weight="700" text-anchor="start">二层：展览 / 餐饮</text>
+<text x="1100" y="1870" font-family="Noto Sans CJK SC, sans-serif" font-size="20px" fill="#4b4034" font-weight="700" text-anchor="start">三层：羽毛球 / 乒乓球</text>
+<rect x="3165" y="1960" width="55" height="150" fill="#202927" stroke="#202927" stroke-width="2" rx="0" opacity="1"/>
+<line x1="3172" y1="1972" x2="3213" y2="1972" stroke="#f4f1e9" stroke-width="3"/>
+<line x1="3172" y1="1988" x2="3213" y2="1988" stroke="#f4f1e9" stroke-width="3"/>
+<line x1="3172" y1="2004" x2="3213" y2="2004" stroke="#f4f1e9" stroke-width="3"/>
+<line x1="3172" y1="2020" x2="3213" y2="2020" stroke="#f4f1e9" stroke-width="3"/>
+<line x1="3172" y1="2036" x2="3213" y2="2036" stroke="#f4f1e9" stroke-width="3"/>
+<line x1="3172" y1="2052" x2="3213" y2="2052" stroke="#f4f1e9" stroke-width="3"/>
+<rect x="880" y="1960" width="55" height="150" fill="#202927" stroke="#202927" stroke-width="2" rx="0" opacity="1"/>
+<line x1="887" y1="1972" x2="928" y2="1972" stroke="#f4f1e9" stroke-width="3"/>
+<line x1="887" y1="1988" x2="928" y2="1988" stroke="#f4f1e9" stroke-width="3"/>
+<line x1="887" y1="2004" x2="928" y2="2004" stroke="#f4f1e9" stroke-width="3"/>
+<line x1="887" y1="2020" x2="928" y2="2020" stroke="#f4f1e9" stroke-width="3"/>
+<line x1="887" y1="2036" x2="928" y2="2036" stroke="#f4f1e9" stroke-width="3"/>
+<line x1="887" y1="2052" x2="928" y2="2052" stroke="#f4f1e9" stroke-width="3"/>
+<text x="160" y="1870" font-family="Noto Sans CJK SC, sans-serif" font-size="26px" fill="#d06b42" font-weight="700" text-anchor="start">图纸校正要点</text>
+<circle cx="173" cy="1920" r="6" fill="#d06b42" stroke="none" stroke-width="1"/>
+<text x="195" y="1927" font-family="Noto Sans CJK SC, sans-serif" font-size="19px" fill="#24332c" font-weight="400" text-anchor="start">一层：路线和绿化为主要空间组织</text>
+<circle cx="173" cy="1962" r="6" fill="#d06b42" stroke="none" stroke-width="1"/>
+<text x="195" y="1969" font-family="Noto Sans CJK SC, sans-serif" font-size="19px" fill="#24332c" font-weight="400" text-anchor="start">二层：黑色边框即楼板覆盖范围</text>
+<circle cx="173" cy="2004" r="6" fill="#d06b42" stroke="none" stroke-width="1"/>
+<text x="195" y="2011" font-family="Noto Sans CJK SC, sans-serif" font-size="19px" fill="#24332c" font-weight="400" text-anchor="start">三层：黑色边框即楼板覆盖范围</text>
+<circle cx="173" cy="2046" r="6" fill="#d06b42" stroke="none" stroke-width="1"/>
+<text x="195" y="2053" font-family="Noto Sans CJK SC, sans-serif" font-size="19px" fill="#24332c" font-weight="400" text-anchor="start">剖面按三层平面功能逐层对应</text>
+<circle cx="173" cy="2088" r="6" fill="#d06b42" stroke="none" stroke-width="1"/>
+<text x="195" y="2095" font-family="Noto Sans CJK SC, sans-serif" font-size="19px" fill="#24332c" font-weight="400" text-anchor="start">新增构件与原柱网脱开，便于保护结构</text>
+<line x1="150" y1="2380" x2="3340" y2="2380" stroke="#b7c5bc" stroke-width="2"/>
+<text x="150" y="2420" font-family="Noto Sans CJK SC, sans-serif" font-size="18px" fill="#65746d" font-weight="400" text-anchor="start">说明：本图为依据用户三层示意图的正式化方案表达。二、三层黑色边框按原示意图作为楼板范围控制，功能与尺寸需在 CAD 阶段复核。</text>
+<text x="3340" y="2420" font-family="Noto Sans CJK SC, sans-serif" font-size="18px" fill="#65746d" font-weight="700" text-anchor="end">DRAWING 01 / 01</text>
+</svg>
